@@ -24,7 +24,7 @@ Terra currently officially supports the Fabric mod loader and the Bukkit API
 * Fabric: [Modrinth](https://modrinth.com/mod/terra)
   / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terra-world-generator)
 * Paper+ servers (Paper, Tuinity, Purpur,
-  etc): [SpigotMC](https://www.spigotmc.org/resources/85151/)
+  etc): [SpigotMC](https://www.spigotmc.org/resources/85151/) 
 
 ## Building and Running Terra
 
